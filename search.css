@@ -1,0 +1,19 @@
+.search-bar {
+    position: relative;
+}
+
+.search-bar input{
+    border: none;
+    padding: 15px;
+    width: 200px;
+}
+
+.search-bar button{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border: none;
+    padding: 5px;
+    background: rgb(189, 11, 11);
+}
